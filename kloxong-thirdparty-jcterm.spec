@@ -1,11 +1,11 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/thirdparty
-%define productname kloxong-thirdparty
+%define productname kloxokr-thirdparty
 %define packagename jcterm
 
 Name: %{productname}-%{packagename}
 Summary: JCTerm SSH access for webpages
 Version: 0.0.10
-Release: 2.kng%{?dist}
+Release: 2.kkr%{?dist}
 License: GPL
 URL: http://lxcenter.org/
 Group: Applications/Internet
